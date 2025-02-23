@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요 ! 엔지니어에서 개발자로..</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 보안 솔루션 WAS 서버에 구축을 하고 시스템 오픈 전까지 기술지원을 하였고,  유지보수 및 기술지원 업무를 주로 했습니다. 엔지니어의 경험을 통해 개발자 직무에 관심가지게 되었습니다. </div><br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 보안 솔루션 WAS 서버에 구축을 하고 시스템 오픈 전까지 기술지원을 하였고,  유지보수 및 기술지원 업무를 주로 했습니다. 엔지니어의 경험을 통해 개발 직무에 관심가지게 되었습니다. </div><br>
     <div align="left"> 
         <a href="https://junmore.tistory.com/"> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://junmore.tistory.com/"> 
